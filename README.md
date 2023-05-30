@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p>
-  <a href="https://github.com/iamlos/negative-email-keywords-masterlist/negative_keywords.txt">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://docs.google.com/spreadsheets/d/1nX-FVpjC3SrPL9-A8VS_oiSF3FlDQyCfTfTCySG-Zs0/copy">
+    <img src="images/icon_sheets.svg" alt="Logo" width="96" height="96">
   </a>
   
   </p>
@@ -17,8 +17,8 @@
 
 <p>Below is our list of all the keywords that we know first hand can potentially trigger spam filters. This list is by no means a complete list of every single keyword that spam filters associate with spam, but as time goes on we will continuously adding to this article to ensure that your deliverability potential is as high as possible.</p>
 
+<p> Click the icon above to get the most updated list</p>
 
-<a target="_blank" href="https://docs.google.com/spreadsheets/d/1nX-FVpjC3SrPL9-A8VS_oiSF3FlDQyCfTfTCySG-Zs0/copy"><img src="images/sheets_icon.svg" alt="Logo" width="80" height="80"> </a>
 
 
 <p><a target="_blank" href="https://icons8.com/icon/79990/google-docs">Google sheets</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
